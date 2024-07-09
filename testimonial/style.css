@@ -1,0 +1,27 @@
+
+.container{
+    background-color:white;
+    border: solid 1px;
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin: 20px;
+}
+.head{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+img{
+    margin: 10px;
+}
+header{
+   padding-left: 500px;
+    font-style: oblique;
+    
+}
